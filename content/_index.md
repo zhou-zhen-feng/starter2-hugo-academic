@@ -17,10 +17,9 @@ sections:
     id: posts
     content:
       title: Recent Posts
-       text:|-
-          *yyyyyy
-
-          *uuuuuuu
+      text: |-
+        *yyyyyy
+        *yyyyyyy
      # Choose how many pages you would like to display (0 = all pages)
       count: 5
       # Filter on criteria
