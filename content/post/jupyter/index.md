@@ -1,5 +1,5 @@
 ---
-summary: Learn how to blog in Academic using Jupyter notebooks
+summary: how to blog in Academic using Jupyter notebooks
 authors:
   - admin
 lastMod: 2019-09-05T00:00:00Z
