@@ -1,31 +1,30 @@
 ---
-title: Display Jupyter Notebooks with Academic
-subtitle: Learn how to blog in Academic using Jupyter notebooks
 summary: Learn how to blog in Academic using Jupyter notebooks
 authors:
   - admin
+lastMod: 2019-09-05T00:00:00Z
+title: " Notebooks with Academic"
+subtitle: how to blog in Academic using Jupyter notebooks
+date: 2023-08-15T10:27:44.577Z
 tags: []
 categories: []
 projects: []
-date: '2019-02-05T00:00:00Z'
-lastMod: '2019-09-05T00:00:00Z'
 image:
-  caption: ''
-  focal_point: ''
+  caption: ""
+  focal_point: ""
 ---
-
 ```python
 from IPython.core.display import Image
 Image('https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png')
 ```
 
-![png](./index_1_0.png)
-
 ```python
 print("Welcome to Academic!")
 ```
 
-    Welcome to Academic!
+```
+Welcome to Academic!
+```
 
 ## Install Python and JupyterLab
 
@@ -49,7 +48,7 @@ The `jupyter` command above will launch the JupyterLab editor, allowing us to ad
 
 The first cell of your Jupter notebook will contain your post metadata ([front matter](https://sourcethemes.com/academic/docs/front-matter/)).
 
-In Jupter, choose _Markdown_ as the type of the first cell and wrap your Academic metadata in three dashes, indicating that it is YAML front matter:
+In Jupter, choose *Markdown* as the type of the first cell and wrap your Academic metadata in three dashes, indicating that it is YAML front matter:
 
 ```
 ---
