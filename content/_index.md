@@ -43,18 +43,9 @@ sections:
       order: desc
     design:
       columns: '2'
-  - block: markdown
-    content:
-      title: Gallery
-      subtitle: ''
-      text: |-
-        {{< gallery album="demo" >}}
-    design:
-      columns: '1'
-
   - block: collection
     content:
-      title: Recent Publications
+      title: Research
       text: |-
         {{% callout note %}}
         Quickly discover relevant content by [filtering publications](./publication/).
@@ -66,7 +57,6 @@ sections:
     design:
       columns: '2'
       view: citation
-
   - block: collection
     id: talks
     content:
@@ -77,7 +67,14 @@ sections:
     design:
       columns: '2'
       view: compact
-
+  - block: markdown
+    content:
+      title: Gallery
+      subtitle: ''
+      text: |-
+        {{< gallery album="demo" >}}
+    design:
+      columns: '1'
   - block: contact
     id: contact
     content:

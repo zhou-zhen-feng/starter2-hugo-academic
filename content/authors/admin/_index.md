@@ -1,6 +1,6 @@
 ---
 # Display name
-title: zhou zhenfeng 周振锋
+title: zhou zhenfeng 
 
 # Full name (for SEO)
 first_name: zhou
