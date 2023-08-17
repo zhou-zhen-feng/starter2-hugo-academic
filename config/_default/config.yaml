@@ -73,5 +73,3 @@ sitemap:
   _merge: deep
 minify:
   _merge: deep
-netlify_cms:
-  config_file: netlify.yaml
