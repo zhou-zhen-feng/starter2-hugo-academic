@@ -15,7 +15,7 @@ publishDate: ""
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "science and technology communication"
+publication: "*science and technology communication*"
 publication_short: ""
 
 abstract: Based on the theory of "use and satisfaction", from the perspective of the audience, this article focuses on analyzing how health rumors on WeChat platforms attract and meet the needs of some audiences, which has reference significance for understanding why health rumors are widely spread. At the same time, the article proposes specific measures to prevent and control health rumors from the perspectives of individuals, WeChat platforms, mainstream media, and the state, which has practical significance.
@@ -62,8 +62,3 @@ projects:
 #slides: example
 ---
 
-#{{% callout note %}}
-#Create your slides in Markdown - click the *Slides* button to check out the #example.
-#{{% /callout %}}
-
-#Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).

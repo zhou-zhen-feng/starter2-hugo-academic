@@ -1,16 +1,16 @@
 ---
-title: "An example journal article"
+title: "A Study on the Factors Influencing Students' Cognitive Level of "Four Histories" Education"
 authors:
-- admin
-- Robert Ford
+- Zhou zhenfeng 周振锋
+- Zhang qin 张沁
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
-date: "2015-09-01T00:00:00Z"
+date: "2022-02-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: ""
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -19,29 +19,29 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: ""
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: To analyze the cognitive level and influencing factors of college students towards "Four Histories" education, and to explore the problems and solutions that arise in practical teaching of "Four Histories" education. This study adopts a simple random sampling method, randomly selecting 352 college students from Lanzhou University online and offline for a questionnaire survey. The conclusion shows that the literacy level of teachers, students' majors, learning attitudes, and political outlook are the main factors that affect the cognitive level of college students towards the "Four Histories" education. Therefore, universities should attach importance to the construction of the Four Histories course, actively innovate teaching methods, and pay attention to the combination of theory and practice,Strive to build a team of four history teachers with high levels of moral, professional, and professional qualities.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Taking Lanzhou University as an example, students were randomly selected online and offline for a questionnaire survey, and 349 valid questionnaires were obtained. The data was processed using SPSS to analyze the factors that affect college students' understanding of the "Four Histories" education.
 
-tags:
-- Source Themes
-featured: false
+#tags:
+#- Source Themes
+#featured: false
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
+url_pdf: http://cotent/publication/jupter-article/jupter-aticle.pdf
+#url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
+#url_dataset: ''
+#url_poster: ''
+#url_project: ''
+#url_slides: ''
+#url_source: ''
+#url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
@@ -62,15 +62,6 @@ projects: []
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+#slides: example
 ---
 
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
