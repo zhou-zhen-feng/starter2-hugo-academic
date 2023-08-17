@@ -1,4 +1,4 @@
- ---
+---
 title: "A Study on the Factors Influencing Students' Cognitive Level of "Four Histories" Education"
 authors:
 - Zhou zhenfeng 周振锋
