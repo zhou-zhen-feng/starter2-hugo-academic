@@ -34,7 +34,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course:Master in Journalism and Communication
+    - course: Master in Journalism and Communication
       institution: Nanjing University
       year: 2023
     - course: undergraduate in Journalism and Communication
