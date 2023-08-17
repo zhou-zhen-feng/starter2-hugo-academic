@@ -10,16 +10,20 @@ sections:
     content:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
-      username: admin
-  
-         
+      username: admin         
   - block: collection
     id: posts
     content:
-      title: Recent Posts
+      title: Certificate
       text: |-
-        *yyyyyy
-        *yyyyyyy
+       <font size=5>●&nbsp;&nbsp;Outstanding graduates</font>\
+       <font size=5>●&nbsp;&nbsp;Excellent Student Model</font>\
+       <font size=5>●&nbsp;&nbsp;Excellent League Member</font>\
+       <font size=5>●&nbsp;&nbsp;Outstanding Student Cadre</font>\
+       <font size=5>●&nbsp;&nbsp;National Inspirational Scholarship</font>\
+       <font size=5>●&nbsp;&nbsp;Bronze Award of "Internet plus" Trials</font>\
+       <font size=5>●&nbsp;&nbsp;IGEM International Competition Gold Medal</font>\
+       <font size=5>●&nbsp;&nbsp;Bronze Award in Youth Volunteer Service Project Competition</font>\
      # Choose how many pages you would like to display (0 = all pages)
       count: 5
       # Filter on criteria
@@ -39,7 +43,6 @@ sections:
       order: desc
     design:
       columns: '2'
-  
   - block: markdown
     content:
       title: Gallery
