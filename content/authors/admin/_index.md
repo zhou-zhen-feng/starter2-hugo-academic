@@ -77,5 +77,5 @@ email: ''
 highlight_name: true
 ---
 
-Zhou Zhenfeng is currently a Master at the School of Journalism and Communication at Nanjing University. Zhou Zhenfeng's research interests include computational communication, social networks, new media research, and health communication. He is familiar with media technology and its applications, and can research by using Python, Spass, crawlers, and more.
+Zhou Zhenfeng is currently a Master at the School of Journalism and Communication at Nanjing University. Zhou Zhenfeng's research interests include computational communication, social networks, new media research, and health communication. He is familiar with media technology and its applications, and can research by using Python, spss, crawlers, and more.
 {style="text-align: justify;"}

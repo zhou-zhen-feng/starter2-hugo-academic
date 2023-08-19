@@ -10,8 +10,33 @@ sections:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin         
+   - block: collection
+     id：research
+     content:
+      title: Research
+      text: |-
+        {{% callout note %}}
+        Quickly discover relevant content by [filtering publications](./publication/).
+        {{% /callout %}}
+      filters:
+        folders:
+          - publication
+        exclude_featured: true
+    design:
+      columns: '2'
+      view: citation
   - block: collection
-    id: posts
+    id: experience
+    content:
+      title: Experience
+      filters:
+        folders:
+          - event
+    design:
+      columns: '2'
+      view: compact
+  - block: collection
+    id: certificate
     content:
       title: Certificate
       text: |-
@@ -42,31 +67,8 @@ sections:
       order: desc
     design:
       columns: '2'
-  - block: collection
-    content:
-      title: Research
-      text: |-
-        {{% callout note %}}
-        Quickly discover relevant content by [filtering publications](./publication/).
-        {{% /callout %}}
-      filters:
-        folders:
-          - publication
-        exclude_featured: true
-    design:
-      columns: '2'
-      view: citation
-  - block: collection
-    id: talks
-    content:
-      title: Experience
-      filters:
-        folders:
-          - event
-    design:
-      columns: '2'
-      view: compact
   - block: markdown
+    id: gallery
     content:
       title: Gallery
       subtitle: ''
