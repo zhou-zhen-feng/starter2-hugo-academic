@@ -1,28 +1,27 @@
 ---
-title: Example Talk
+title: Rural Delicious Project
 
-event: Wowchemy Conference
-event_url: https://example.org
+#event: Wowchemy Conference
+#event_url: https://example.org
 
-location: Wowchemy HQ
+location: Liuzhou TV Station
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+  street: No.1 Guizhong Avenue
+  city:Liuzhou
+  #region: CA
+  #postcode: '94305'
+  country: China
 
-summary: An example talk using Wowchemy's Markdown slides feature.
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+summary: The "Rural Delicacy" project is a key project of Liuzhou Radio and Television Station, and is a series of special films on rural revitalization. With a brand new audio-visual recording method, it seeks the ultimate delicacies in the countryside and creates exquisite visual flavors through camera language. Country Delicious 2 "is the second season of the project.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2030-06-01T13:00:00Z'
-date_end: '2030-06-01T15:00:00Z'
+date: '2022-010'
+date_end: '2023-01'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2017-01-01T00:00:00Z'
+#publishDate: ''
 
 authors: []
 tags: []
@@ -35,10 +34,10 @@ image:
   focal_point: Right
 
 links:
-  - icon: twitter
-    icon_pack: fab
-    name: Follow
-    url: https://twitter.com/georgecushen
+  #- icon: twitter
+    #icon_pack: fab
+    #name: Follow
+    #url: https://twitter.com/georgecushen
 url_code: ''
 url_pdf: ''
 url_slides: ''
@@ -59,15 +58,7 @@ slides: example
 projects:
   - example
 ---
-
-{{% callout note %}}
-Click on the **Slides** button above to view the built-in slides feature.
-{{% /callout %}}
-
-Slides can be added in a few ways:
-
-- **Create** slides using Wowchemy's [_Slides_](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
-
-Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.
+More Details:
+- **Rural Delicious 2** The camera of 'Rural Delicious 2' focuses on Liucheng County, Liuzhou City, with rural cuisine as the starting point, and revolves around the six main themes of 'rural revitalization', 'national unity', 'intangible cultural heritage traditional culture', 'food stories',' humanistic customs', and 'ASEAN culture' to narrate.
+- **Achieve** A total of 6 films including "ASEAN Colorful Cake" and won multiple awards.
+- **Responsibility** As a project director, responsible for project planning, on-site investigation, determining topic selection, and writing shooting plans and scripts, coordinating with local publicity committees to arrange scenes, shooting on-site execution, and writing post promotion texts.
