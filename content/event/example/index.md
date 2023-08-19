@@ -7,7 +7,7 @@ title: Rural Delicious Project
 location: Liuzhou TV Station
 address:
   street: No.1 Guizhong Avenue
-  city:Liuzhou
+  city: Liuzhou
   #region: CA
   #postcode: '94305'
   country: China
