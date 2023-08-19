@@ -1,22 +1,22 @@
 ---
-title: Rural Delicious 2 Project
+title: Appointment in the Youth Volunteer Association
 
 #event: Wowchemy Conference
 #event_url: https://example.org
 
-location: Liuzhou TV Station
+location: Lanzhou university
 address:
-  street: No.1 Guizhong Avenue
-  city: Liuzhou
+  #street: yuzhong Campus
+  city: Lanzhou
   #region: CA
   #postcode: '94305'
   country: China
 
-summary: As a project director, I participated in the entire process from early project planning and topic selection, mid-term shooting script writing, to later filming.
+summary: Formerly served as the Minister and Chairman of the Youth Volunteer Association, as well as the Propaganda Committee Member of the Radio and Television Class.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2022-10-20T13:00:00Z'
+date: '2021-07-11T13:00:00Z'
 #date_end: '2023-01'
 all_day: false
 
@@ -59,6 +59,5 @@ projects:
   - example
 ---
 More Details:
-- **Rural Delicious 2** The "Rural Delicious " is a key project of Liuzhou Radio and Television Station，and is a series of special films on rural revitalization.With a brand new audio-visual recording method,it seeks the ultimate delicacies in the countryside and creates exquisite visual flavors through camera language.'Rural Delicious 2 ’ is the second park.
-- **Achieve** A total of 6 films including "ASEAN Colorful Cake" and won multiple awards.
-- **Detailed responsibilities** As a project director, responsible for project planning, on-site investigation, determining topic selection, and writing shooting plans and scripts, coordinating with local publicity committees to arrange scenes, shooting on-site execution, and writing promotion texts.
+- **Achieve** During my tenure at the Youth Volunteer Association, I organized and participated in psychological drama competitions at Lanzhou University, rescue activities for stray animals in Lanzhou,and volunteer activities for epidemic prevention and control, serving college students and receiving recognition from teachers and classmates.
+- **Detailed responsibilities**I serve as the overall head of each department of the association, responsible for uploading and assigning tasks, coordinating and arranging the work of each department, as well as recruiting, training, and managing volunteers. In addition, I am also responsible for organizing and planning some large-scale events at the school and college levels.

@@ -1,22 +1,22 @@
 ---
-title: Rural Delicious 2 Project
+title: STAR Short video studio
 
 #event: Wowchemy Conference
 #event_url: https://example.org
 
-location: Liuzhou TV Station
+location: Lanzhou university
 address:
-  street: No.1 Guizhong Avenue
-  city: Liuzhou
+  street: yuzhong Campus
+  city: Lanzhou
   #region: CA
   #postcode: '94305'
   country: China
 
-summary: As a project director, I participated in the entire process from early project planning and topic selection, mid-term shooting script writing, to later filming.
+summary: As a core member, participate in the establishment of a STAR short video studio.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2022-10-20T13:00:00Z'
+date: '2022-03-01T13:00:00Z'
 #date_end: '2023-01'
 all_day: false
 
@@ -59,6 +59,6 @@ projects:
   - example
 ---
 More Details:
-- **Rural Delicious 2** The "Rural Delicious " is a key project of Liuzhou Radio and Television Station，and is a series of special films on rural revitalization.With a brand new audio-visual recording method,it seeks the ultimate delicacies in the countryside and creates exquisite visual flavors through camera language.'Rural Delicious 2 ’ is the second park.
-- **Achieve** A total of 6 films including "ASEAN Colorful Cake" and won multiple awards.
-- **Detailed responsibilities** As a project director, responsible for project planning, on-site investigation, determining topic selection, and writing shooting plans and scripts, coordinating with local publicity committees to arrange scenes, shooting on-site execution, and writing promotion texts.
+- **Rural Delicious 2** The studio takes "Looking for the Cowherd from Lanzhou University" as the theme, shoots a series of short videos and posts them on new media platforms, providing Lanzhou students with a platform to showcase themselves.
+- **Achieve** We have produced a total of 9 videos, obtained the school level innovation and entrepreneurship qualification, and successfully completed the project.
+- **Detailed responsibilities** From early video planning, mid stage filming, post editing, and full participation, I have effectively honed my professional skills.
