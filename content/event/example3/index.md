@@ -16,7 +16,7 @@ summary: Formerly served as the Minister and Chairman of the Youth Volunteer Ass
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2021-07-11T13:00:00Z'
+date: '2021-06-01T13:00:00Z'
 #date_end: '2023-01'
 all_day: false
 
