@@ -17,7 +17,7 @@ summary: The "Rural Delicacy" project is a key project of Liuzhou Radio and Tele
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: '2022-010'
-date_end: '2023-01'
+#date_end: '2023-01'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
